@@ -1,0 +1,48 @@
+From federico.pelloni at gmail.com  Thu Feb  9 18:24:54 2006
+From: federico.pelloni at gmail.com (Federico Pelloni)
+Date: Thu, 9 Feb 2006 18:24:54 +0100
+Subject: [Foopanel-users] MemInfo
+In-Reply-To: <1137688571.7059.1.camel@sergunka.home>
+References: <1137410271.26651.4.camel@sergunka.home>
+	<20060118173445.0a585078.federico.pelloni@gmail.com>
+	<1137602230.7036.1.camel@sergunka.home>
+	<20060119153015.59278bec.federico.pelloni@gmail.com>
+	<1137688571.7059.1.camel@sergunka.home>
+Message-ID: <20060209182454.25f85ab6.federico.pelloni@gmail.com>
+
+SolidBlue in SVN should now be fixed, so I
+merged MemInfo plugin.
+
+This is a bit modified to make possible to have 
+vertical labels by setting the "vlabel" option 
+to "True" in the config file.
+
+-- 
+Federico "Fredp" Pelloni
+
+E-mail: federico.pelloni at gmail.com
+ICQ: 305267066  
+
+
+From federico.pelloni at gmail.com  Mon Feb 13 16:42:22 2006
+From: federico.pelloni at gmail.com (Federico Pelloni)
+Date: Mon, 13 Feb 2006 16:42:22 +0100
+Subject: [Foopanel-users] New plugin: VolumeControl
+Message-ID: <20060213164222.4adaade8.federico.pelloni@gmail.com>
+
+I've just committed into SVN a new simple plugin: VolumeControl.
+It is, as the name says, a simple volume control to quickly adjust
+your music volume directly from Foopanel.
+It is very similar (let's say a clone) of the one for the Xfce panel:
+a button to open a full mixer (which one can be chosen in the settings
+with the <mixer> option) and a progressbar showing the current level, you
+set the volume by scrolling with the mouse wheel over the progressbar or 
+over the button.
+
+-- 
+Federico "Fredp" Pelloni
+
+E-mail: federico.pelloni at gmail.com
+ICQ: 305267066  
+
+

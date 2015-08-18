@@ -1,0 +1,558 @@
+From federico.pelloni at gmail.com  Tue Nov 22 19:29:58 2005
+From: federico.pelloni at gmail.com (Federico Pelloni)
+Date: Tue, 22 Nov 2005 19:29:58 +0100
+Subject: [Foopanel-users] [announce] Foopanel 0.0.1 hits the streets!
+Message-ID: <438363A6.9080208@gmail.com>
+
+Foopanel first release, 0.0.1, was just made public.
+It is not yet complete, but already quite usable and, I hope, useful.
+
+---
+Foopanel is a powerful desktop panel that enables you to have all
+that you want just one-click-far.
+It is extensible through Plugins and fully themeable.
+---
+
+Have a look at the home page (http://foopanel.berlios.de/) or go straight
+downloading it: 
+https://developer.berlios.de/project/showfiles.php?group_id=5218
+
+Please test it and report any problems you had.
+Comments and suggestions are really welcome, too.
+
+Bye,
+Federico "Fredp" Pelloni
+
+
+From federico.pelloni at gmail.com  Sun Nov 27 21:43:43 2005
+From: federico.pelloni at gmail.com (Federico Pelloni)
+Date: Sun, 27 Nov 2005 21:43:43 +0100
+Subject: [Foopanel-users] [announce] Foopanel 0.0.2 released
+Message-ID: <438A1A7F.4000907@gmail.com>
+
+Foopanel 0.0.2 has been released.
+This new release features two more plugin bundled: "Windowlist" and 
+"Pager" (in addiction to "Menu" and "Clock"), plus some fixes to make 
+Foopanel work with PyGTK < 2.8.
+If you want to use one of the new plugins, then there is an extra 
+dependency: "gnome-python-extras", as they are simple wrappers to the 
+libwnck functions.
+Moreover, there is a new version of the "Menu" plugin that prevents the 
+menus from exiting from the edges of the screen: when necessary, a 
+scrollbar appears.
+
+---
+Foopanel is a powerful desktop panel that enables you to have all that 
+you want just one-click-far. It is extensible through Plugins and fully 
+themeable.
+---
+
+Have a look at the home page (http://foopanel.berlios.de/) or go 
+straight downloading it: 
+https://developer.berlios.de/project/showfiles.php?group_id=5218
+
+Please test it and report any problems you had. Comments and suggestions 
+are really welcome, too.
+
+Bye,
+Federico "Fredp" Pelloni
+
+
+
+From support at chase.com  Mon Nov 28 13:28:16 2005
+From: support at chase.com (support at chase.com)
+Date: Mon, 28 Nov 2005 08:28:16 -0400
+Subject: [Foopanel-users] IMPORTANT: Password Change Required
+Message-ID: <RPQQNESTJPRDEQTAHGIXRPFOH@msn.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051128/8576d73c/attachment.html>
+
+From service at paypal.com  Mon Nov 28 13:53:09 2005
+From: service at paypal.com (PayPal Inc Department)
+Date: Mon, 28 Nov 2005 05:53:09 -0700
+Subject: [Foopanel-users] Verify And Update your Paypal acoount !
+Message-ID: <ZORQIBCWTEBUKFWYDPIA@yahoo.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051128/042a03d7/attachment.html>
+
+From profile at chase.com  Mon Nov 28 14:28:25 2005
+From: profile at chase.com (Chase Inc)
+Date: Mon, 28 Nov 2005 09:28:25 -0400
+Subject: [Foopanel-users] SD NOTICE: Password Change Required
+Message-ID: <WWFKTXEERSQDWAYBPYJE@yahoo.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051128/07716151/attachment.html>
+
+From service at wellsfargo.com  Mon Nov 28 21:32:58 2005
+From: service at wellsfargo.com (Wells Frago Staff)
+Date: Mon, 28 Nov 2005 12:32:58 -0800
+Subject: [Foopanel-users] Please Update Your Account Access
+Message-ID: <E1EgpgI-0000Ji-1v@python.unixbsd.info>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051128/b368908c/attachment.html>
+
+From service at wellsfargo.com  Mon Nov 28 21:39:19 2005
+From: service at wellsfargo.com (Wells Fargo Staff)
+Date: Mon, 28 Nov 2005 20:39:19 +0000
+Subject: [Foopanel-users] Please Update Your Account Access
+Message-ID: <E1EgpmR-0000YO-Oz@server3.uae-dns.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051128/db846f61/attachment.html>
+
+From acc at chase.com  Tue Nov 29 01:32:10 2005
+From: acc at chase.com (Chase Online Banking)
+Date: Tue, 29 Nov 2005 03:32:10 +0300
+Subject: [Foopanel-users] URGENT: Password Change Required
+Message-ID: <TSJWPIOSOCOSUWCOZGOTALEW@msn.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051129/e5be0575/attachment.html>
+
+From acc-overview at chase.com  Tue Nov 29 04:41:01 2005
+From: acc-overview at chase.com (Chase Trust And Safety Department)
+Date: Tue, 29 Nov 2005 04:41:01 +0100
+Subject: [Foopanel-users] Urgent change your password
+Message-ID: <JVPOXGWYQZEMUNWIDAYIYOC@charter.net>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051129/6dbd9c4f/attachment.html>
+
+From trustinternational at walla.com  Tue Nov 29 16:10:38 2005
+From: trustinternational at walla.com (TRUST INTERNATIONAL)
+Date: Tue, 29 Nov 2005 13:10:38 -0200
+Subject: [Foopanel-users] (no subject)
+Message-ID: <CFA36DDA.6947EB6@walla.com>
+
+ATENTION,
+
+WINNING NOTICE FOR CATEGORY "A" WINNER
+
+Dear Lucky Winner,
+
+RE:  PRIZE AWARD WINNING NOTIFICATION
+
+We are pleased to inform you of the result of the just concluded annual
+final draws of Trust International Lottery programs.
+
+The online cyber lotto draws was conducted from an exclusive list of 25,000
+e-mail addresses of individual and corporate bodies picked by an
+advanced automated random computer search from the internet. No tickets
+were sold.
+
+After this automated computer ballot, your e-mail address emerged as one of
+two winners in the category "A" with the following:
+
+Ref Number: 35149/337-5247/LNI
+Batch Number: 26371545-LNI/2005
+
+You as well as the other winner are therefore to receive a cash prize of
+TWO MILLION, FIVE HUNDRED THOUSAND DOLLARS ONLY ($2,500,000.00)  each
+from the total payout.
+
+Your prize award has been insured with your e-mail address and will be
+transferred to you upon meeting our requirements, statutory obligations,
+verifications, validations and satisfactory report.
+
+To begin the claims processing of your prize winnings you are advised to
+contact our licensed and accredited claims agent for category "A"
+winners with the information below:
+
+MR. FRED FREEMAN,
+Financial Director,
+SWIP FINANCIAL HOLDINGS
+Hogevecht 150
+1102 HH Amsterdam, The-Netherlands
+E-mail: swipholding at netscape.net
+TEL: +31-630-852-889
+FAX; +31-847-535-838
+
+You are expected to provide the following details below to your claims
+agent:
+
+1) BATCH AND REFFERENCE NUMBERS
+2) FULL NAMES
+3) AGE
+4) MAILING ADDRESS
+5) PHONE AND FAX NUMBERS
+6) EMAIL ADDRESS
+7) NATIONALITY
+
+NOTE: All winnings must be claimed not later than 20 days. After this date
+all unclaimed funds would be included in the next stake. Remember to quote
+your reference information in all correspondence.
+
+You are to keep all lotto information away from the general public
+especially your reference and batch numbers. (This is important as a case
+of double claims will not be entertained).
+
+Anybody under the age of 18 and members of the affiliate agencies are
+automatically not allowed to participate in this program.
+
+Thank you and congratulations!!!
+
+Yours faithfully,
+Mrs.Jennifer Adams
+Games/Lottery Coordinator.
+Trust International Lottery
+
+
+
+
+From paypal at email.paypal.com  Tue Nov 29 23:10:34 2005
+From: paypal at email.paypal.com (PayPal)
+Date: Tue, 29 Nov 2005 17:10:34 -0500
+Subject: [Foopanel-users] Account Review Team
+Message-ID: <200511292210.jATMAYSA006080@hs41.order-vault.net>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051129/d3dec613/attachment.html>
+
+From freelotto at freelotto.com  Tue Nov 29 23:10:29 2005
+From: freelotto at freelotto.com (Free Lotto)
+Date: Tue, 29 Nov 2005 23:10:29 +0100
+Subject: [Foopanel-users] Your Email Won The Lottery
+Message-ID: <200511292210.jATMAgN04689@bat.berlios.de>
+
+Free Lotto Ltd,
+406 Bury New Rd.,
+Whitefield, Manchester
+M45 7SX U.K.
+www.freelotto.com
+
+Ref Nr:  FL/89123/ZV,
+
+Dear Consultation Prize Winner,
+
+RE: CONSOLATION PRIZE WINNER NOTICE
+
+Europe/ America and Asia private international e-games organizers and co-sponsors, FREE LOTTO 
+Group International, officially bring to your notice of the final draw result of the 22th November -2005 
+FREE LOTTO -wheel E-game which was conducted at our international corporate office complex in The 
+MANCHESTER,UNITED KINGDOM.
+
+Most recently this foundation set up the NEW LOTTERY SCHEME to give out prizes based on 
+COMPUTER BALLOT SYSTEM. By doing this the foundation seek to encourage the use of Internet for 
+academic and business pursuits. It major aim  is to promote music, theater, art, literature, projects in   the 
+social and  political arena with a focus on health, as well as science, research, and  higher education.
+
+We wish to congratulate and inform you on the selection of your email coupon  number which was  
+selected among the 45 lucky consultation prize winners Your  email ID identified with coupon No. 
+FL34841121 and was selected by our E-games Random Selection System (ERSS) with entries from the 
+50,000 different email addresses enrolled for the E-game.
+
+Your email ID was included among the 50,000 different email addresses submitted by our partner 
+international email provider companies. You have won a consultation cash prize of ? 800.809.00 (EIGHT 
+HUNDRED THOUSAND EIGHT HUNDRED AND NINE EURO ONLY). The FREE LOTTO Group, 
+have approved a payout of your consultation cash prize which will be remunerated directly to you by the 
+official Payment Agency Board. Our DUE PROCESS UNIT (DPU) will render to you complete 
+assistance and provide additional information and processes for the claims of your consultation prize.
+
+For due processing of your winning claim. Please contact the DPU Information Officer, Mr. Alphonso 
+Ketter who has been assigned to assist you.
+
+Complete Solutions Ltd
+Korte Lijnbaanssteeg 1201
+1075 CN Amsterdam 
+Netherlands 
+Tel: 31 617 594 984
+Fax: 31 847 200 825
+Email-alphonsoketter at netscape.net
+
+Once again congratulations from all our staffs on your consultation prize winning, we hope you will 
+partake our forth coming FREE LOTTO -wheel Email-games.
+
+You are hereby advised to reconfirm your Full Contact Information  as well as other relevant information 
+in the format stated below so that Mr. Alphonso Ketter can instruct the bank for immediate contact to you 
+for further remittance advice to your local account.
+
+The Requested Information is to ensure that no error is made and it should be forwarded in the manner 
+stated below:
+Your Full Name: 
+________________________________________________________________________________
+You?re Complete Address (Physical Address with Zip Code not P.O.BOX): 
+__________________________________
+Name of City of Residence: 
+_______________________________________________________________________
+Direct Telephone Number: __________________________________ Fax Number 
+___________________________
+Mobile Number: 
+___________________________________Email:________________________________________
+
+Once again congratulations from all our staffs on your consultation prize winning, we hope you will 
+partake our forth coming FREE LOTTO -wheel Email-games.
+
+
+sincerely remain
+
+Mrs. Mary Alberto
+
+In accordance with the FREE LOTTO -wheel E-games policy and regulations, this notification is 
+dispatched directly to only the 45 lucky consultation prize Winners. This notification also contains 
+information that is proprietary, privileged or confidential or otherwise legally exempt from disclosure. If 
+you are not the right recipient whose fax number attached to the lucky numbers along with the winning 
+informations you are not authorized to read, print, retain, copy   or disseminate this notice or any part of it.
+
+
+From acc at chase.com  Tue Nov 29 23:39:09 2005
+From: acc at chase.com (Chase Inc)
+Date: Tue, 29 Nov 2005 15:39:09 -0700
+Subject: [Foopanel-users] Urgent change your password
+Message-ID: <XSJBONEDVCCLRTYMNMZEMQ@aol.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051129/57b994bc/attachment.html>
+
+From support at paypal.com  Wed Nov 30 01:23:12 2005
+From: support at paypal.com (PayPal Email ID PP321)
+Date: Wed, 30 Nov 2005 05:23:12 +0500
+Subject: [Foopanel-users] PayPal Email ID PP321
+Message-ID: <BCYMHXJITZRVYWHIZAMYDAO@charter.net>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051130/4468a768/attachment.html>
+
+From account at paypal.com  Wed Nov 30 02:08:05 2005
+From: account at paypal.com (PayPal Email ID PP321)
+Date: Wed, 30 Nov 2005 04:08:05 +0300
+Subject: [Foopanel-users] PayPal Email ID PP321
+Message-ID: <IRZCSMUQKVDTNEBTXQYM@charter.net>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051130/5e74d346/attachment.html>
+
+From service at paypal.com  Wed Nov 30 12:52:32 2005
+From: service at paypal.com (PayPal Email ID PP321)
+Date: Wed, 30 Nov 2005 16:52:32 +0500
+Subject: [Foopanel-users] PayPal Email ID PP321
+Message-ID: <XMJDEBIJWOCCYHWMZJLQTOPYO@earthlink.net>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051130/aa98299e/attachment.html>
+
+From trustinternational at walla.com  Wed Nov 30 15:12:34 2005
+From: trustinternational at walla.com (TRUST INTERNATIONAL)
+Date: Wed, 30 Nov 2005 05:12:34 -0900
+Subject: [Foopanel-users] RE:  PRIZE AWARD WINNING NOTIFICATION
+Message-ID: <33FB6EE9.F594715@walla.com>
+
+ATENTION,
+
+WINNING NOTICE FOR CATEGORY "A" WINNER
+
+Dear Lucky Winner,
+
+RE:  PRIZE AWARD WINNING NOTIFICATION
+
+We are pleased to inform you of the result of the just concluded annual
+final draws of Trust International Lottery programs.
+
+The online cyber lotto draws was conducted from an exclusive list of 25,000
+e-mail addresses of individual and corporate bodies picked by an
+advanced automated random computer search from the internet. No tickets
+were sold.
+
+After this automated computer ballot, your e-mail address emerged as one of
+two winners in the category "A" with the following:
+
+Ref Number: 35149/337-5247/LNI
+Batch Number: 26371545-LNI/2005
+
+You as well as the other winner are therefore to receive a cash prize of
+TWO MILLION, FIVE HUNDRED THOUSAND DOLLARS ONLY ($2,500,000.00)  each
+from the total payout.
+
+Your prize award has been insured with your e-mail address and will be
+transferred to you upon meeting our requirements, statutory obligations,
+verifications, validations and satisfactory report.
+
+To begin the claims processing of your prize winnings you are advised to
+contact our licensed and accredited claims agent for category "A"
+winners with the information below:
+
+MR. FRED FREEMAN,
+Financial Director,
+SWIP FINANCIAL HOLDINGS
+Hogevecht 150
+1102 HH Amsterdam, The-Netherlands
+E-mail: swipholding at netscape.net
+TEL: +31-630-852-889
+FAX; +31-847-535-838
+
+You are expected to provide the following details below to your claims
+agent:
+
+1) BATCH AND REFFERENCE NUMBERS
+2) FULL NAMES
+3) AGE
+4) MAILING ADDRESS
+5) PHONE AND FAX NUMBERS
+6) EMAIL ADDRESS
+7) NATIONALITY
+
+NOTE: All winnings must be claimed not later than 20 days. After this date
+all unclaimed funds would be included in the next stake. Remember to quote
+your reference information in all correspondence.
+
+You are to keep all lotto information away from the general public
+especially your reference and batch numbers. (This is important as a case
+of double claims will not be entertained).
+
+Anybody under the age of 18 and members of the affiliate agencies are
+automatically not allowed to participate in this program.
+
+Thank you and congratulations!!!
+
+Yours faithfully,
+Mrs.Jennifer Adams
+Games/Lottery Coordinator.
+Trust International Lottery
+
+
+
+
+From service at wellsfargo.com  Wed Nov 30 16:23:35 2005
+From: service at wellsfargo.com (Wells Frago Staff)
+Date: Wed, 30 Nov 2005 18:23:35 +0300
+Subject: [Foopanel-users] Please Update Your Account Access
+Message-ID: <E1EhTnz-0003fv-LK@nice.boostserver.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051130/b894298b/attachment.html>
+
+From Service at barclays.co.uk  Wed Nov 30 16:38:20 2005
+From: Service at barclays.co.uk (Security@barclays.co.uk)
+Date: Wed, 30 Nov 2005 16:38:20 +0100
+Subject: [Foopanel-users] Quarterly Statement Notice
+Message-ID: <200511301538.jAUFcKXA004954@webdus.blasberg-computer.de>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051130/b8c8d60b/attachment.html>
+
+From service at wellsfargo.com  Wed Nov 30 17:27:14 2005
+From: service at wellsfargo.com (Wells Frago Staff)
+Date: Wed, 30 Nov 2005 19:27:14 +0300
+Subject: [Foopanel-users] Please Update Your Account Access
+Message-ID: <E1EhUna-0007X2-Nd@nice.boostserver.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051130/241f68dc/attachment.html>
+
+From service at wellsfargo.com  Wed Nov 30 19:06:56 2005
+From: service at wellsfargo.com (Wells Frago Staff)
+Date: Wed, 30 Nov 2005 21:06:56 +0300
+Subject: [Foopanel-users] Please Update Your Account Access
+Message-ID: <E1EhWM4-0006nN-G5@nice.boostserver.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051130/a2078078/attachment.html>
+
+From service at wellsfargo.com  Wed Nov 30 19:17:58 2005
+From: service at wellsfargo.com (Wells Frago Staff)
+Date: Wed, 30 Nov 2005 21:17:58 +0300
+Subject: [Foopanel-users] Please Update Your Account Access
+Message-ID: <E1EhWWk-0005EL-KK@nice.boostserver.com>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051130/0e93f5e3/attachment.html>
+
+From support at chase.com  Wed Nov 30 20:45:12 2005
+From: support at chase.com (support at chase.com)
+Date: Wed, 30 Nov 2005 20:45:12 +0100
+Subject: [Foopanel-users] SECURITY NOTIFICATION
+Message-ID: <UBUSVOYJDPXLWCKUFREDQWB@comcast.net>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051130/780f38d2/attachment.html>
+
+From support at paypal.com  Wed Nov 30 22:21:03 2005
+From: support at paypal.com (Customer Support)
+Date: Wed, 30 Nov 2005 18:21:03 -0300
+Subject: [Foopanel-users] PayPal Notification ( Your account is suspended )
+Message-ID: <200511302121.jAULL3kY016521@mail.promerco.cl>
+
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/foopanel-users/attachments/20051130/e8dfdf3d/attachment.html>
+
+From claimsmanager01 at walla.com  Wed Nov 30 17:40:08 2005
+From: claimsmanager01 at walla.com (www.lotto.nl)
+Date: Wed, 30 Nov 2005 23:40:08 +0700
+Subject: [Foopanel-users] "WINNING' CLAIMS ALERT.
+Message-ID: <B469BDA4.4E1416F@walla.com>
+
+ 
+Lotto  International 
+European Promotional Draws ************************************************
+**** Amsterdam Netherlands *************************************************
+**** Claims Department Ref: MMCAN/652311872/05 Batch: 074/05/369MM WINNING
+NOTIFICATION  
+   We happily announce to you the draw of the Lotto Netherlands
+International Sweepstake Lottery International programs held in Netherlands.
+
+   Your e-mail address attached to ticket number: 564700564321 with Serial
+number 4265/02 drew the lucky numbers: 31-05-75-67-25-04, which subsequently
+won you the lottery in the 2nd category. 
+   You have therefore been approved to claim a total sum of One
+Million,Five Hundred Thousand ( Euros 1,500,000.00 ) in cash credited to
+file Ref. No: MMCAN/652311872/05.
+   This is from a total cash prize of Euros 22,500,000.00 , shared amongst
+the first Fifteen (15) lucky winners in this category. All participants were
+selected randomly from World Wide Web site through computer draw system and
+extracted from over 150,000 individual/ company e-mail addresses. This
+promotion takes place annually. 
+   In view of this, your Euros 1,500,000.00 (One Million, Five Hundred
+Thousand Euros) would be released to you by our payment office in europe. To
+begin your lottery claim, do contact the claims manager : 
+MR. PETER VAN 
+CLAIMS MANAGER 
+LOTTO NETHERLANDS 
+email- lttclaimsagent at walla.com 
+Fax -31-847-515-275 
+Tel -31-613-813-795 
+
+Note that all winning must be claimed not later than 10th December,2005.
+After this date all unclaimed funds will be included in the next year
+sweepstake. 
+  In order to avoid unnecessary delays and complications do remember to
+quote your reference number and batch numbers in all correspondence. 
+
+Furthermore, should there be any change of address do not hesitate inform
+your claims manager as soon as possible. Congratulations once more from our
+members of staff and thank you for being part of our promotional program.
+ Yours Sincerely, 
+MRS. ANNA MICHAEL 
+email: claimsmanager01 at walla.com
+Lottery Coordinator *******************************************************
+******************************************************** DISCLAIMER: This
+communication is for the exclusive use of the intended recipient (s) and
+shall not attach any liability on the originator, Lotto Netherlands
+International. If you are the addressee, the contents of this letter are
+intended for your use only and it shall not be forwarded to any third party,
+without first obtaining written authorizations from the originator. It may
+contain information, which is confidential and legally privileged and the
+same shall not be used or dealt with by any third party in any manner
+without the specific consent of Lotto Netherlands International.
+ www.lotto.nl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,181 @@
+From federico.pelloni at gmail.com  Thu Mar 16 18:14:52 2006
+From: federico.pelloni at gmail.com (Federico Pelloni)
+Date: Thu, 16 Mar 2006 18:14:52 +0100
+Subject: [Foopanel-users] Foopanel 0.1.0 released!
+Message-ID: <20060316181452.297996a0.federico.pelloni@gmail.com>
+
+Hi everybody, just some words to let you know Foopanel 0.1.0 was released :-D
+And now, it can even look like a regular application.
+
+Please check out and try it, feedback is very appreciated.
+
+------
+
+WHAT IS IT?
+Foopanel is a powerful desktop panel that enables you to have all that you want
+just one-click-far. It is extensible through Plugins and fully themeable. 
+See more at http://foopanel.berlios.de/
+
+WHAT'S NEW?
+The One Big Step! Now Foopanel can be installed to the system (no more need to
+run from the source directory) and it features a quite complete graphical
+configuration interface.
+
+Various plugins (Clock, CPULoad, Flexible space, MemInfo, Menu, MusicControl, Pager,
+QuickTerminal, Separator, VolumeControl) and one theme (SolidBlue) are bundled.
+
+Requirements for this release are: Python 2.3+, GTK+ 2.6+, PyGTK 2.6+ and, 
+optional, PyXDG 0.14+ and Gnome-python-extras
+
+WHERE?
+See more about Foopanel at http://foopanel.berlios.de/
+Fetch it from http://developer.berlios.de/project/filelist.php?group_id=5218
+
+OTHER TO KNOW?
+Bug reports, suggestions and ideas are very appreciated.
+Feel free to give your contribution, if you like Foopanel.
+
+-- 
+Federico "Fredp" Pelloni
+
+E-mail: federico.pelloni at gmail.com
+ICQ: 305267066  
+
+
+From sales at sec.myftp.biz  Sat Mar 25 16:38:31 2006
+From: sales at sec.myftp.biz (User)
+Date: Sat, 25 Mar 2006 23:38:31 +0800
+Subject: [Foopanel-users] RE: Message delivery failure: mfederico.pelloni@gmail.com
+Message-ID: <200603251538.k2PFcTt03417@bat.berlios.de>
+
+ Dear Her Federico,
+
+I would like to thank you for your foopanel work.
+
+If I may ask help for some peculiar difficulties,
+   I experience problem when I include the plugin "menu".
+
+Here follows is the info display in the terminal window when I run foopanel.
+
+If I disable the "menu" plugin, all run smoothly.
+
+Hope in a reply to help me solve the problem.
+
+Thank you in advance,
+
+best regards and good work,
+
+Ernesto
+
+>Terminal screenshoot:
+>
+>pc at pc:~$ foopanel
+>Loading theme SolidBlue
+>Plugin 'Flexible space' loaded
+>Warning: Unable to load plugin 'menu'
+>Traceback (most recent call last):
+>  File "/usr/bin/foopanel", line 37, in ?
+>    foopanel.run()
+>  File "/usr/lib/python2.4/site-packages/foopanel/__init__.py", line 88, 
+>in run
+>    plugin_manager = core.PluginManager()
+>  File "/usr/lib/python2.4/site-packages/foopanel/lib/core.py", line 97, in __in it__
+>    functions.load_plugin( plugin, settings )
+>  File "/usr/lib/python2.4/site-packages/foopanel/lib/functions.py", 
+>line 56, in  load_plugin
+>    plugwidget = plugin.Plugin()
+>  File "/home/pc/.foopanel/plugins/menu/__init__.py", line 317, in __init__
+>    obj = menu(m)
+>  File "/home/pc/.foopanel/plugins/menu/__init__.py", line 165, in __init__
+>    icon = obj.getIcon()
+>AttributeError: Separator instance has no attribute 'getIcon'
+>pc at pc:~$
+>
+
+	
+
+
+
+
+
+From federico.pelloni at gmail.com  Sun Mar 26 16:17:28 2006
+From: federico.pelloni at gmail.com (Federico Pelloni)
+Date: Sun, 26 Mar 2006 16:17:28 +0200
+Subject: [Foopanel-users] RE: Message delivery failure:
+ mfederico.pelloni@gmail.com
+In-Reply-To: <200603251538.k2PFcTt03417@bat.berlios.de>
+References: <200603251538.k2PFcTt03417@bat.berlios.de>
+Message-ID: <20060326161728.5de230f2.federico.pelloni@gmail.com>
+
+On Sat, 25 Mar 2006 23:38:31 +0800
+"User" <sales at sec.myftp.biz> wrote:
+
+>  Dear Her Federico,
+> 
+> I would like to thank you for your foopanel work.
+> 
+> If I may ask help for some peculiar difficulties,
+>    I experience problem when I include the plugin "menu".
+> 
+> Here follows is the info display in the terminal window when I run foopanel.
+> 
+> If I disable the "menu" plugin, all run smoothly.
+> 
+> Hope in a reply to help me solve the problem.
+> 
+> Thank you in advance,
+> 
+> best regards and good work,
+> 
+> Ernesto
+> 
+> >Terminal screenshoot:
+> >
+> >pc at pc:~$ foopanel
+> >Loading theme SolidBlue
+> >Plugin 'Flexible space' loaded
+> >Warning: Unable to load plugin 'menu'
+> >Traceback (most recent call last):
+> >  File "/usr/bin/foopanel", line 37, in ?
+> >    foopanel.run()
+> >  File "/usr/lib/python2.4/site-packages/foopanel/__init__.py", line 88, 
+> >in run
+> >    plugin_manager = core.PluginManager()
+> >  File "/usr/lib/python2.4/site-packages/foopanel/lib/core.py", line 97, in __in it__
+> >    functions.load_plugin( plugin, settings )
+> >  File "/usr/lib/python2.4/site-packages/foopanel/lib/functions.py", 
+> >line 56, in  load_plugin
+> >    plugwidget = plugin.Plugin()
+> >  File "/home/pc/.foopanel/plugins/menu/__init__.py", line 317, in __init__
+> >    obj = menu(m)
+> >  File "/home/pc/.foopanel/plugins/menu/__init__.py", line 165, in __init__
+> >    icon = obj.getIcon()
+> >AttributeError: Separator instance has no attribute 'getIcon'
+> >pc at pc:~$
+> >
+> 
+> 	
+> 
+> 
+> 
+> _______________________________________________
+> Foopanel-users mailing list
+> Foopanel-users at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/foopanel-users
+
+Hi
+
+That is a known bug, that should have been fixed in SVN and probably
+will be included in the next release (with some other fixes).
+Try checking out the SVN code and see if it works.
+Then let me know if it worked
+
+Bye
+
+-- 
+Federico "Fredp" Pelloni
+
+E-mail: federico.pelloni at gmail.com
+ICQ: 305267066  
+
+

@@ -1,0 +1,53 @@
+From fedoseev.sergey at gmail.com  Mon Jan 16 12:17:51 2006
+From: fedoseev.sergey at gmail.com (Sergey Fedoseev)
+Date: Mon, 16 Jan 2006 16:17:51 +0500
+Subject: [Foopanel-users] MemInfo
+Message-ID: <1137410271.26651.4.camel@sergunka.home>
+
+Hi!
+I wrote plugin for foopanel that shows used memory. It's in attachement.
+One thing it looks weirdly with	SolidBlue theme and I don't know why.
+-- 
+Sergey Fedoseev 
+e-mail: <fedoseev.sergey at gmail.com>
+Jabber ID: Sir_Sigurd at jabber.ru 
+
+
+
+From federico.pelloni at gmail.com  Wed Jan 18 17:34:45 2006
+From: federico.pelloni at gmail.com (Federico Pelloni)
+Date: Wed, 18 Jan 2006 17:34:45 +0100
+Subject: [Foopanel-users] MemInfo
+In-Reply-To: <1137410271.26651.4.camel@sergunka.home>
+References: <1137410271.26651.4.camel@sergunka.home>
+Message-ID: <20060118173445.0a585078.federico.pelloni@gmail.com>
+
+On Mon, 16 Jan 2006 16:17:51 +0500
+Sergey Fedoseev <fedoseev.sergey at gmail.com> wrote:
+
+> Hi!
+> I wrote plugin for foopanel that shows used memory. It's in attachement.
+> One thing it looks weirdly with	SolidBlue theme and I don't know why.
+> -- 
+> Sergey Fedoseev 
+> e-mail: <fedoseev.sergey at gmail.com>
+> Jabber ID: Sir_Sigurd at jabber.ru 
+> 
+> _______________________________________________
+> Foopanel-users mailing list
+> Foopanel-users at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/foopanel-users
+
+You rock!
+
+But... er... did I got blind or the attachment is missing? 
+Could you please try to post it again? 
+Maybe I misconfigured something in the ML admin :-\
+
+Anyway, even if I haven't seen it yet, I'm absolutely sure
+it is great!
+
+-- 
+Federico "Fredp" Pelloni
+
+
